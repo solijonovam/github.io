@@ -1,5 +1,10 @@
-<style>
-h1 {text-align: center;}
-h1 {color: Red;}
-p  {background-color:Orange}
-</style>
+body {
+    background-color: powderblue;
+    text-align:left;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
